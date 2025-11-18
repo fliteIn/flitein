@@ -1,4 +1,4 @@
-# 👋 Hi, I'm fliteIn
+# 👋 Hi, I'm Wassili Krause
 
 **Mobile Engineer • Flutter • UI Architecture • Performance**
 
