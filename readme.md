@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[BANNER_URL](https://github.com/fliteIn/flitein/blob/main/fliteIn_Banner.png)" alt="fliteIn banner" width="100%">
+  <img src="https://github.com/fliteIn/flitein/blob/main/fliteIn_Banner.png" alt="fliteIn banner" width="100%">
 </p>
 
 
