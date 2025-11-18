@@ -67,9 +67,9 @@ Advanced Flutter audio player demonstrating:
 
 ## 🌐 Connect with Me
 
-* **LinkedIn** — *(link in profile)*
-* **Google Play** — ListenMe Player
-* **GitHub Discussions** — architecture & research topics
+* **LinkedIn** — [linkedin.com/in/wassili-krause](https://www.linkedin.com/in/wassili-krause/)
+* **Google Play** — [ListenMe Player](https://play.google.com/store/apps/details?id=com.listenme.player)
+* **GitHub Discussions** — architecture, UI systems, and engineering topics
 
 ---
 
