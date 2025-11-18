@@ -28,7 +28,7 @@ Advanced Flutter audio player demonstrating:
 * Jog‑wheel controls, custom sliders, and interactive widgets
 * Offline playlist modes, metadata parsing, and more
 
-🔗 **Google Play:** *(link in profile)*
+🔗 **Google Play:** *(https://play.google.com/store/apps/details?id=com.listenme.player)*
 
 ---
 
